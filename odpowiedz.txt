@@ -1,0 +1,20 @@
+Frame 46: 82 bytes on wire (656 bits), 82 bytes captured (656 bits) on interface enp0s31f6, id 0
+Ethernet II, Src: Dell_12:00:bc (cc:96:e5:12:00:bc), Dst: Fortinet_e4:71:ef (d4:76:a0:e4:71:ef)
+Internet Protocol Version 4, Src: 192.168.48.90, Dst: 10.30.0.31
+User Datagram Protocol, Src Port: 34065, Dst Port: 53
+Domain Name System (query)
+    Transaction ID: 0xcbbd
+    Flags: 0x0100 Standard query
+    Questions: 1
+    Answer RRs: 0
+    Authority RRs: 0
+    Additional RRs: 1
+    Queries
+        kosmatka.pl: type AAAA, class IN
+            Name: kosmatka.pl
+            [Name Length: 11]
+            [Label Count: 2]
+            Type: AAAA (28) (IP6 Address)
+            Class: IN (0x0001)
+    Additional records
+    [Response In: 47]

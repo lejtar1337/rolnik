@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 24 Apr 2026 11:22:09 GMT
+Content-Type: image/png
+Content-Length: 540
+Last-Modified: Mon, 06 Apr 2015 00:28:14 GMT
+Connection: keep-alive
+ETag: "5521d31e-21c"
+Accept-Ranges: bytes
+
+HTTP/1.1 404 Not Found
+Server: nginx
+Date: Fri, 24 Apr 2026 11:22:10 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 146
+Connection: keep-alive
+
+
+Host: mm.kosmatka.pl
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: pl,en-US;q=0.9,en;q=0.8
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://mm.kosmatka.pl/favicon.png
+Priority: u=6
